@@ -1,0 +1,5 @@
+NAME- Umukoro favour
+EMAIL- Favour041@gmail.com
+SLACK USERNAME-umukoro favour
+TRACK-frontend
+COURSE-html,css,javascript
